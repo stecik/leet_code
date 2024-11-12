@@ -1,0 +1,14 @@
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\bin\Debug\net9.0\221MaximalSquare.exe
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\bin\Debug\net9.0\221MaximalSquare.deps.json
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\bin\Debug\net9.0\221MaximalSquare.runtimeconfig.json
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\bin\Debug\net9.0\221MaximalSquare.dll
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\bin\Debug\net9.0\221MaximalSquare.pdb
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.AssemblyInfoInputs.cache
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.AssemblyInfo.cs
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.csproj.CoreCompileInputs.cache
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.dll
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\refint\221MaximalSquare.dll
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.pdb
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\221MaximalSquare.genruntimeconfig.cache
+C:\Users\marst\Desktop\LeetCode\C#\221MaximalSquare\221MaximalSquare\obj\Debug\net9.0\ref\221MaximalSquare.dll
