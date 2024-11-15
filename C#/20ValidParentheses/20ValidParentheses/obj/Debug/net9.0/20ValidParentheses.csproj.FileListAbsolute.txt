@@ -1,0 +1,15 @@
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.AssemblyInfo.cs
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.sourcelink.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\bin\Debug\net9.0\20ValidParentheses.exe
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\bin\Debug\net9.0\20ValidParentheses.deps.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\bin\Debug\net9.0\20ValidParentheses.runtimeconfig.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\bin\Debug\net9.0\20ValidParentheses.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\bin\Debug\net9.0\20ValidParentheses.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\refint\20ValidParentheses.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\20ValidParentheses.genruntimeconfig.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\20ValidParentheses\20ValidParentheses\obj\Debug\net9.0\ref\20ValidParentheses.dll

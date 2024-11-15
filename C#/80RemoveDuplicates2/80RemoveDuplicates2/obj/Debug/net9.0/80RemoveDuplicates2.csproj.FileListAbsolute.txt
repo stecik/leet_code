@@ -1,0 +1,15 @@
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\bin\Debug\net9.0\80RemoveDuplicates2.exe
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\bin\Debug\net9.0\80RemoveDuplicates2.deps.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\bin\Debug\net9.0\80RemoveDuplicates2.runtimeconfig.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\bin\Debug\net9.0\80RemoveDuplicates2.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\bin\Debug\net9.0\80RemoveDuplicates2.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.AssemblyInfoInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.AssemblyInfo.cs
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.csproj.CoreCompileInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.sourcelink.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\refint\80RemoveDuplicates2.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\80RemoveDuplicates2.genruntimeconfig.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\80RemoveDuplicates2\80RemoveDuplicates2\obj\Debug\net9.0\ref\80RemoveDuplicates2.dll

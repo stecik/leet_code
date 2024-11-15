@@ -1,0 +1,15 @@
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\bin\Debug\net9.0\27RemoveElement.exe
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\bin\Debug\net9.0\27RemoveElement.deps.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\bin\Debug\net9.0\27RemoveElement.runtimeconfig.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\bin\Debug\net9.0\27RemoveElement.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\bin\Debug\net9.0\27RemoveElement.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.AssemblyInfoInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.AssemblyInfo.cs
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.sourcelink.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\refint\27RemoveElement.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\27RemoveElement.genruntimeconfig.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\27RemoveElement\27RemoveElement\obj\Debug\net9.0\ref\27RemoveElement.dll
