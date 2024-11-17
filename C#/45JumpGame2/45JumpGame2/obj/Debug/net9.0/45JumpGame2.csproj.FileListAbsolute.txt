@@ -1,0 +1,15 @@
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\bin\Debug\net9.0\45JumpGame2.exe
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\bin\Debug\net9.0\45JumpGame2.deps.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\bin\Debug\net9.0\45JumpGame2.runtimeconfig.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\bin\Debug\net9.0\45JumpGame2.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\bin\Debug\net9.0\45JumpGame2.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.AssemblyInfoInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.AssemblyInfo.cs
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.csproj.CoreCompileInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.sourcelink.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\refint\45JumpGame2.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\45JumpGame2.genruntimeconfig.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\45JumpGame2\45JumpGame2\obj\Debug\net9.0\ref\45JumpGame2.dll
