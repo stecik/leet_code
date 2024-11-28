@@ -1,0 +1,15 @@
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\bin\Debug\net9.0\169MajorityElement.exe
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\bin\Debug\net9.0\169MajorityElement.deps.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\bin\Debug\net9.0\169MajorityElement.runtimeconfig.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\bin\Debug\net9.0\169MajorityElement.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\bin\Debug\net9.0\169MajorityElement.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.AssemblyInfoInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.AssemblyInfo.cs
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.sourcelink.json
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\refint\169MajorityElement.dll
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.pdb
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\169MajorityElement.genruntimeconfig.cache
+C:\Users\marst\Desktop\IT\LeetCode\C#\169MajorityElement\169MajorityElement\obj\Debug\net9.0\ref\169MajorityElement.dll
